@@ -46,8 +46,8 @@
     ]
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/light.svg",
+    "light": "/logo/ZAUNBOT_DARK.png",
+    "dark": "/logo/ZAUNBOT_LIGHT.png",
     "href": "https://discord.gg/invite/GRasHsMMtP"
   },
   "navbar": {
