@@ -17,21 +17,21 @@
           "href": "https://zaunserv.de"
         },
         {
-          "anchor": "Blog",
+          "anchor": "Support",
           "icon": "newspaper",
-          "href": "https://mintlify.com/blog"
+          "href": "https://zaunserv.de"
         }
       ]
     },
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "User Guides",
         "groups": [
           {
             "group": "Getting started",
             "pages": [
               "index",
-              "quickstart",
+              "ersteschritte",
               "development"
             ]
           },
@@ -57,26 +57,6 @@
               "ai-tools/cursor",
               "ai-tools/claude-code",
               "ai-tools/windsurf"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "API reference",
-        "groups": [
-          {
-            "group": "API documentation",
-            "pages": [
-              "api-reference/introduction"
-            ]
-          },
-          {
-            "group": "Endpoint examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
             ]
           }
         ]
