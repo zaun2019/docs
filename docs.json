@@ -32,14 +32,13 @@
             "pages": [
               "index",
               "ersteschritte",
-              "development"
+              "Lizenzsystem"
             ]
           },
           {
             "group": "Features",
             "pages": [
-              "essentials/settings",
-              "essentials/navigation"
+              "essentials/settings"
             ]
           },
           {
