@@ -14,7 +14,7 @@
         {
           "anchor": "Invite Bot",
           "icon": "user-plus",
-          "href": "https://discord.gg/invite/GRasHsMMtP"
+          "href": "https://discord.com/oauth2/authorize?client_id=1452346504563003527&permissions=7056110263987415&integration_type=0&scope=bot"
         },
         {
           "anchor": "Support",
