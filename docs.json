@@ -54,7 +54,11 @@
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "https://discord.gg/invite/GRasHsMMtP"
+      },
+      {
+        "label": "Discord Server",
+        "href": "https://docs.zaunserv.de"
       }
     ],
     "primary": {
@@ -74,11 +78,6 @@
      "cursor",
      "vscode"
    ]
-  },
-  "footer": {
-    "socials": {
-      "discord": "https://discord.gg/invite/GRasHsMMtP"
-    }
   },
   "background": {
     "decoration": "windows"
