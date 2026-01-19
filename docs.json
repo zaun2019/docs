@@ -38,8 +38,7 @@
           {
             "group": "Features",
             "pages": [
-              "essentials/settings",
-              "user-guides/features/admin-system"
+              "essentials/settings"
             ]
           }
         ]
