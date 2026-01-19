@@ -38,24 +38,8 @@
           {
             "group": "Features",
             "pages": [
-              "essentials/settings"
-            ]
-          },
-          {
-            "group": "Writing content",
-            "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/reusable-snippets"
-            ]
-          },
-          {
-            "group": "AI tools",
-            "pages": [
-              "ai-tools/cursor",
-              "ai-tools/claude-code",
-              "ai-tools/windsurf"
+              "essentials/settings",
+              "user-guides/features/admin-system"
             ]
           }
         ]
